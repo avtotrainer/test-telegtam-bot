@@ -7,7 +7,7 @@ BOT_TOKEN = "8234410673:AAEr-49VqW2jNIAgBP5TqwIiyM3OK5-7K-c"
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("გამარჯობა! 🖐")
+    await update.message.reply_text("გამარჯობა! 👋 რაღაც შეიცვალა და მე ეს ვიგრძენი 🖐")
 
 
 if __name__ == "__main__":
